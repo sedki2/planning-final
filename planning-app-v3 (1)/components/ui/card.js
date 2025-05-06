@@ -1,0 +1,2 @@
+export function Card({ children, ...props }) { return <div className='border rounded shadow p-2 mb-2' {...props}>{children}</div> }
+export function CardContent({ children, ...props }) { return <div {...props}>{children}</div> }
