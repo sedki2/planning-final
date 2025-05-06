@@ -7,10 +7,11 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
     "docx": "^8.3.0",
-    "file-saver": "^2.0.5"
+    "file-saver": "^2.0.5",
+    "next": "latest",
+    "openai": "^4.97.0",
+    "react": "latest",
+    "react-dom": "latest"
   }
 }
